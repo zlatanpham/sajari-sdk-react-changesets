@@ -1,6 +1,6 @@
 import { useId } from '@react-aria/utils';
-import { Button, ButtonGroup } from '@sajari/react-components';
-import { useSearchContext } from '@sajari/react-hooks';
+import { Button, ButtonGroup } from '@tpham0/react-components';
+import { useSearchContext } from '@tpham0/react-hooks';
 import * as React from 'react';
 import { useTranslation } from 'react-i18next';
 

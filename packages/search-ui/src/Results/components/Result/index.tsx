@@ -1,5 +1,5 @@
 /* eslint-disable react/jsx-no-target-blank */
-import { Box, Heading, Image, ImageProps, Link, Rating, Text } from '@sajari/react-components';
+import { Box, Heading, Image, ImageProps, Link, Rating, Text } from '@tpham0/react-components';
 import {
   __DEV__,
   decodeHTML,
@@ -8,7 +8,7 @@ import {
   isNumber,
   isString,
   isValidURL,
-} from '@sajari/react-sdk-utils';
+} from '@tpham0/react-sdk-utils';
 import React, { useMemo } from 'react';
 
 import { useSearchUIContext } from '../../../ContextProvider';

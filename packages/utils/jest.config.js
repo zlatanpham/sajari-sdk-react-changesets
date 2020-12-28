@@ -5,6 +5,6 @@ module.exports = {
   ...base,
   rootDir: '../..',
   testMatch: ['<rootDir>/packages/utils/**/*.test.ts', '<rootDir>/packages/utils/**/*.test.tsx'],
-  name: '@sajari/react-sdk-utils',
+  name: '@tpham0/react-sdk-utils',
   displayName: 'utils',
 };

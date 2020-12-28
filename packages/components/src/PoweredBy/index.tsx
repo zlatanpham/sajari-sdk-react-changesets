@@ -1,4 +1,4 @@
-import { __DEV__ } from '@sajari/react-sdk-utils';
+import { __DEV__ } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 
 import { LogoSajariColor, LogoSajariMono } from '../assets/logos';

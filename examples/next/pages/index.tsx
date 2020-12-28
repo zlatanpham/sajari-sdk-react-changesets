@@ -8,9 +8,9 @@ import {
   Input,
   SSRProvider,
   Pagination,
-} from '@sajari/react-search-ui';
-import { search } from '@sajari/server';
-import { useSearchContext } from '@sajari/react-hooks';
+} from '@tpham0/react-search-ui';
+import { search } from '@tpham0/server';
+import { useSearchContext } from '@tpham0/react-hooks';
 
 const pipelineConfig = {
   account: '1594153711901724220',

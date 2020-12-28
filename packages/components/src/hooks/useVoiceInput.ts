@@ -1,5 +1,5 @@
 /* eslint-disable new-cap, no-prototype-builtins */
-import { isSSR } from '@sajari/react-sdk-utils';
+import { isSSR } from '@tpham0/react-sdk-utils';
 import { useCallback, useEffect, useRef, useState } from 'react';
 
 export default function useVoiceInput(onResult?: (r: string) => void) {

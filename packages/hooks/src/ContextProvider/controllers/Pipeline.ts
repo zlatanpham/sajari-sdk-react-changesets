@@ -1,5 +1,5 @@
 /* eslint-disable no-underscore-dangle */
-import { isSSR, isString } from '@sajari/react-sdk-utils';
+import { isSSR, isString } from '@tpham0/react-sdk-utils';
 import { Client } from '@sajari/sdk-js';
 
 import { EVENT_RESPONSE_UPDATED, EVENT_RESULT_CLICKED, EVENT_SEARCH_SENT } from '../events';

@@ -1,9 +1,9 @@
 import 'react-app-polyfill/ie11';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import { SearchProvider, FieldDictionary, Pipeline, Variables } from '@sajari/react-search-ui';
-import { useSearchContext } from '@sajari/react-hooks';
-import { Pagination } from '@sajari/react-components';
+import { SearchProvider, FieldDictionary, Pipeline, Variables } from '@tpham0/react-search-ui';
+import { useSearchContext } from '@tpham0/react-hooks';
+import { Pagination } from '@tpham0/react-components';
 
 const SearchPlayground = () => {
   const { search, setPage, page, pageCount, resultsPerPage, totalResults, results } = useSearchContext<{

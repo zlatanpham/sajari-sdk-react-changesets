@@ -1,5 +1,5 @@
 import { AriaTextFieldOptions, useTextField } from '@react-aria/textfield';
-import { __DEV__, clamp, closest, formatNumber, getStylesObject, round } from '@sajari/react-sdk-utils';
+import { __DEV__, clamp, closest, formatNumber, getStylesObject, round } from '@tpham0/react-sdk-utils';
 import React, { MouseEvent, ReactNode, useEffect } from 'react';
 import { useRanger } from 'react-ranger';
 

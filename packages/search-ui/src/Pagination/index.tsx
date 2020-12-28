@@ -1,6 +1,6 @@
-import { Pagination as PurePagination } from '@sajari/react-components';
-import { usePagination } from '@sajari/react-hooks';
-import { __DEV__ } from '@sajari/react-sdk-utils';
+import { Pagination as PurePagination } from '@tpham0/react-components';
+import { usePagination } from '@tpham0/react-hooks';
+import { __DEV__ } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 import { useTranslation } from 'react-i18next';
 

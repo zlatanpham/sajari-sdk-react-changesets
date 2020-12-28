@@ -1,4 +1,4 @@
-import { isSSR } from '@sajari/react-sdk-utils';
+import { isSSR } from '@tpham0/react-sdk-utils';
 import { useEffect, useRef, useState } from 'react';
 
 import { ImageProps } from './types';

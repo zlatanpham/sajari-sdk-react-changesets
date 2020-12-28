@@ -1,5 +1,5 @@
-import { SearchProviderValues } from '@sajari/react-hooks';
-import { ThemeProviderProps } from '@sajari/react-sdk-utils';
+import { SearchProviderValues } from '@tpham0/react-hooks';
+import { ThemeProviderProps } from '@tpham0/react-sdk-utils';
 
 export interface SearchUIContextProviderValues {
   /** Maximum possible rating value */

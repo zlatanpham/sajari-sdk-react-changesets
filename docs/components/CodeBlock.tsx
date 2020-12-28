@@ -1,8 +1,8 @@
 import { mdx } from '@mdx-js/react';
 
-import * as ReactComponents from '@sajari/react-components';
-import * as ReactHooks from '@sajari/react-hooks';
-import * as ReactSearchUI from '@sajari/react-search-ui';
+import * as ReactComponents from '@tpham0/react-components';
+import * as ReactHooks from '@tpham0/react-hooks';
+import * as ReactSearchUI from '@tpham0/react-search-ui';
 import SearchProvider from './SearchProvider';
 
 import {

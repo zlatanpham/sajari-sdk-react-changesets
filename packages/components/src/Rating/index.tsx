@@ -1,5 +1,5 @@
 /* eslint-disable react/no-array-index-key */
-import { __DEV__, getStylesObject } from '@sajari/react-sdk-utils';
+import { __DEV__, getStylesObject } from '@tpham0/react-sdk-utils';
 import classnames from 'classnames';
 import * as React from 'react';
 import tw from 'twin.macro';

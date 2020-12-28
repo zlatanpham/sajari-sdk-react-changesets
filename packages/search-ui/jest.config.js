@@ -5,6 +5,6 @@ module.exports = {
   ...base,
   rootDir: '../..',
   testMatch: ['<rootDir>/packages/search-ui/**/*.test.ts', '<rootDir>/packages/search-ui/**/*.test.tsx'],
-  name: '@sajari/react-search-ui',
+  name: '@tpham0/react-search-ui',
   displayName: 'search-ui',
 };

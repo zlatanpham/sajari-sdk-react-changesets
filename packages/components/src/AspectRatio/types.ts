@@ -1,4 +1,4 @@
-import { PropsWithAs } from '@sajari/react-sdk-utils';
+import { PropsWithAs } from '@tpham0/react-sdk-utils';
 
 import { BoxProps } from '../Box';
 

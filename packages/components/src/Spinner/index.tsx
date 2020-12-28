@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
-import { __DEV__ } from '@sajari/react-sdk-utils';
+import { __DEV__ } from '@tpham0/react-sdk-utils';
 
 import { IconSpinner } from '../assets/icons';
 import { SpinnerProps } from './types';

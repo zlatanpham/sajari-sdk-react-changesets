@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-one-expression-per-line */
-import { Box, Button, Text } from '@sajari/react-components';
-import { useAutocomplete, useSearchContext } from '@sajari/react-hooks';
-import { pluralize } from '@sajari/react-sdk-utils';
+import { Box, Button, Text } from '@tpham0/react-components';
+import { useAutocomplete, useSearchContext } from '@tpham0/react-hooks';
+import { pluralize } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 import { LiveMessage } from 'react-aria-live';
 import { useTranslation } from 'react-i18next';

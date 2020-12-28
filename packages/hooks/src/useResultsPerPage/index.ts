@@ -1,4 +1,4 @@
-import { isNumber } from '@sajari/react-sdk-utils';
+import { isNumber } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 
 import { useContext } from '../ContextProvider';

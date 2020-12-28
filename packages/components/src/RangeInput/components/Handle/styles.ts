@@ -1,4 +1,4 @@
-import { mapStyles } from '@sajari/react-sdk-utils';
+import { mapStyles } from '@tpham0/react-sdk-utils';
 import Color from 'color';
 import tw, { theme as twTheme } from 'twin.macro';
 

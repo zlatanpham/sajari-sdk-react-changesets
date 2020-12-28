@@ -1,4 +1,4 @@
-import { __DEV__, isSSR } from '@sajari/react-sdk-utils';
+import { __DEV__, isSSR } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 import Observer from 'resize-observer-polyfill';
 

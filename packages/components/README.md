@@ -1,4 +1,4 @@
-# @sajari/react-components
+# @tpham0/react-components
 
 Core components that allow you to build a beautiful search interface with any back end.
 

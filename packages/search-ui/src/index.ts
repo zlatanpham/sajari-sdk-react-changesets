@@ -17,7 +17,7 @@ export { default as Summary } from './Summary';
 export * from './Summary';
 export { default as ViewType } from './ViewType';
 export * from './ViewType';
-export { SSRProvider, SSRProviderProps } from '@sajari/react-components';
+export { SSRProvider, SSRProviderProps } from '@tpham0/react-components';
 export {
   ClickTracking,
   Config,
@@ -31,4 +31,4 @@ export {
   RangeFilterOptions,
   SearchProviderValues,
   Variables,
-} from '@sajari/react-hooks';
+} from '@tpham0/react-hooks';

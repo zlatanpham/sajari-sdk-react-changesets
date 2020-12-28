@@ -5,6 +5,6 @@ module.exports = {
   ...base,
   rootDir: '../..',
   testMatch: ['<rootDir>/packages/hooks/**/*.test.ts', '<rootDir>/packages/hooks/**/*.test.tsx'],
-  name: '@sajari/react-hooks',
+  name: '@tpham0/react-hooks',
   displayName: 'hooks',
 };

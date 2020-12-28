@@ -4,10 +4,10 @@
   "scripts": {
     "lerna": "lerna",
     "clean": "lerna clean",
-    "start": "lerna run start --stream --parallel --scope={@sajari/react-components,@sajari/react-hooks,@sajari/react-search-ui,@sajari/react-sdk-utils,@sajari/server}",
-    "test": "lerna exec --scope={@sajari/react-components,@sajari/react-hooks,@sajari/react-search-ui,@sajari/react-sdk-utils,@sajari/server} -- yarn test --passWithNoTests",
-    "test:ci": "lerna exec --scope={@sajari/react-components,@sajari/react-hooks,@sajari/react-search-ui,@sajari/react-sdk-utils,@sajari/server} -- yarn test:ci --passWithNoTests",
-    "build": "lerna run build --scope={@sajari/react-components,@sajari/react-hooks,@sajari/react-search-ui,@sajari/react-sdk-utils,@sajari/server}",
+    "start": "lerna run start --stream --parallel --scope={@tpham0/react-components,@tpham0/react-hooks,@tpham0/react-search-ui,@tpham0/react-sdk-utils,@tpham0/server}",
+    "test": "lerna exec --scope={@tpham0/react-components,@tpham0/react-hooks,@tpham0/react-search-ui,@tpham0/react-sdk-utils,@tpham0/server} -- yarn test --passWithNoTests",
+    "test:ci": "lerna exec --scope={@tpham0/react-components,@tpham0/react-hooks,@tpham0/react-search-ui,@tpham0/react-sdk-utils,@tpham0/server} -- yarn test:ci --passWithNoTests",
+    "build": "lerna run build --scope={@tpham0/react-components,@tpham0/react-hooks,@tpham0/react-search-ui,@tpham0/react-sdk-utils,@tpham0/server}",
     "prepublish": "lerna run prepublish",
     "docs": "lerna exec --scope=sajari-sdk-docs -- yarn dev",
     "build:docs": "lerna exec --scope=sajari-sdk-docs -- yarn build",
@@ -15,7 +15,8 @@
     "format": "prettier -c --write \"*/**\"",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
-    "release": "lerna publish"
+    "changeset": "changeset",
+    "release": "changeset publish"
   },
   "workspaces": [
     "packages/*",

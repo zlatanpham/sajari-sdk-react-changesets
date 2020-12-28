@@ -1,4 +1,4 @@
-import { mapStyles, useTheme } from '@sajari/react-sdk-utils';
+import { mapStyles, useTheme } from '@tpham0/react-sdk-utils';
 import tw from 'twin.macro';
 
 import { useFocusRingStyles } from '../hooks';

@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/role-supports-aria-props */
 
 import { useId } from '@react-aria/utils';
-import { __DEV__, getStylesObject } from '@sajari/react-sdk-utils';
+import { __DEV__, getStylesObject } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 
 import Box from '../Box';

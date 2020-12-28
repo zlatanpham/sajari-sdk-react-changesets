@@ -10,9 +10,9 @@ import SEO from '../../components/SEO';
 The `RangeFilterBuilder` class is used to construct range filters for use with the relevant `SearchProvider`. They can later be referenced by the [`useFilter` hook](/hooks/usefilter) or [`Filter` component](/search-ui/filter).
 
 ```js
-import { RangeFilterBuilder } from '@sajari/react-hooks';
+import { RangeFilterBuilder } from '@tpham0/react-hooks';
 // or
-import { RangeFilterBuilder } from '@sajari/react-search-ui';
+import { RangeFilterBuilder } from '@tpham0/react-search-ui';
 ```
 
 ## Usage
@@ -80,9 +80,9 @@ For more advanced implementations, you may want to access properties on the `Fil
 ### Listen example
 
 ```js
-import { EVENT_SELECTION_UPDATED } from '@sajari/react-hooks';
+import { EVENT_SELECTION_UPDATED } from '@tpham0/react-hooks';
 // or
-import { EVENT_SELECTION_UPDATED } from '@sajari/react-search-ui';
+import { EVENT_SELECTION_UPDATED } from '@tpham0/react-search-ui';
 
 const unregister = filter.listen(EVENT_SELECTION_UPDATED, () => {
   console.log('filter changed:', filter.filter());

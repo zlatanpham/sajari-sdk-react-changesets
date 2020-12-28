@@ -1,6 +1,6 @@
-import { Swatch } from '@sajari/react-components';
-import { useFilter } from '@sajari/react-hooks';
-import { isEmpty } from '@sajari/react-sdk-utils';
+import { Swatch } from '@tpham0/react-components';
+import { useFilter } from '@tpham0/react-hooks';
+import { isEmpty } from '@tpham0/react-sdk-utils';
 import React, { useMemo } from 'react';
 
 import { useSearchUIContext } from '../ContextProvider';

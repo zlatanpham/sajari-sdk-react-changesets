@@ -1,4 +1,4 @@
-import { isNumber } from '@sajari/react-sdk-utils';
+import { isNumber } from '@tpham0/react-sdk-utils';
 import { CountAggregate } from '@sajari/sdk-js';
 import { useEffect, useMemo, useState } from 'react';
 

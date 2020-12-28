@@ -5,6 +5,6 @@ module.exports = {
   ...base,
   rootDir: '../..',
   testMatch: ['<rootDir>/packages/components/**/*.test.ts', '<rootDir>/packages/components/**/*.test.tsx'],
-  name: '@sajari/react-components',
+  name: '@tpham0/react-components',
   displayName: 'components',
 };

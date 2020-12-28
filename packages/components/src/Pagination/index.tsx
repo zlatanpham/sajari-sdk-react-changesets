@@ -1,4 +1,4 @@
-import { clamp, getStylesObject, isSSR, isString } from '@sajari/react-sdk-utils';
+import { clamp, getStylesObject, isSSR, isString } from '@tpham0/react-sdk-utils';
 import classnames from 'classnames';
 import React, { useCallback, useEffect } from 'react';
 import smoothscroll from 'smoothscroll-polyfill';

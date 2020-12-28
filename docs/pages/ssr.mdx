@@ -15,10 +15,10 @@ In React, SSR works by rendering the component to HTML on the server, and then h
 
 In order to make the hooks and components work with SSR, you will need to wrap your application in an SSRProvider component. This signals to all nested components that they are being rendered in an SSR context.
 
-If you're using `@sajari/search-ui`...
+If you're using `@tpham0/search-ui`...
 
 ```jsx live=false
-import { SSRProvider, SearchProvider } from '@sajari/search-ui';
+import { SSRProvider, SearchProvider } from '@tpham0/search-ui';
 
 export default () => (
   <SSRProvider>
@@ -29,10 +29,10 @@ export default () => (
 );
 ```
 
-If you're using `@sajari/search-components` with no search logic required...
+If you're using `@tpham0/search-components` with no search logic required...
 
 ```jsx live=false
-import { SSRProvider } from '@sajari/search-components';
+import { SSRProvider } from '@tpham0/search-components';
 
 export default () => (
   <SSRProvider>
@@ -43,7 +43,7 @@ export default () => (
 
 ## Fetching data
 
-In order to render the components or use hooks while server side rendering, you need a way to fetch data. For this, you can use the `server` function from the `@sajari/server` package. It expects the same props as `SearchProvider`.
+In order to render the components or use hooks while server side rendering, you need a way to fetch data. For this, you can use the `server` function from the `@tpham0/server` package. It expects the same props as `SearchProvider`.
 
 Here's how this Next.js example works:
 
@@ -65,9 +65,9 @@ import {
   Input,
   SSRProvider,
   Pagination,
-} from '@sajari/react-search-ui';
-import { search } from '@sajari/server';
-import { useSearchContext } from '@sajari/react-hooks';
+} from '@tpham0/react-search-ui';
+import { search } from '@tpham0/server';
+import { useSearchContext } from '@tpham0/react-hooks';
 
 const pipelineConfig = {
   account: '1594153711901724220',

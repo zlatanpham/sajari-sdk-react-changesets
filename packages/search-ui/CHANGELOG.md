@@ -3,49 +3,49 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.1.8](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.1.7...@sajari/react-search-ui@1.1.8) (2020-12-21)
+## [1.1.8](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.1.7...@tpham0/react-search-ui@1.1.8) (2020-12-21)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-## [1.1.7](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.1.6...@sajari/react-search-ui@1.1.7) (2020-12-21)
+## [1.1.7](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.1.6...@tpham0/react-search-ui@1.1.7) (2020-12-21)
 
 ### Bug Fixes
 
 - fix required name prop on Filter compositions ([c98024d](https://github.com/sajari/sdk-react/commit/c98024d563e2995a3152dd8d8083ec14c12b0f8a))
 
-## [1.1.6](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.1.5...@sajari/react-search-ui@1.1.6) (2020-12-21)
+## [1.1.6](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.1.5...@tpham0/react-search-ui@1.1.6) (2020-12-21)
 
 ### Bug Fixes
 
 - fix missing exports ([e6318d0](https://github.com/sajari/sdk-react/commit/e6318d0160300e02ce2eac01c14886a6f2d7a7ad))
 
-## [1.1.5](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.1.4...@sajari/react-search-ui@1.1.5) (2020-12-21)
+## [1.1.5](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.1.4...@tpham0/react-search-ui@1.1.5) (2020-12-21)
 
 ### Bug Fixes
 
 - improve accessibility of Filter ([7eda37f](https://github.com/sajari/sdk-react/commit/7eda37f040838e5ca61a519dc0082752d375efed))
 
-## [1.1.4](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.1.3...@sajari/react-search-ui@1.1.4) (2020-12-18)
+## [1.1.4](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.1.3...@tpham0/react-search-ui@1.1.4) (2020-12-18)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-## [1.1.3](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.1.2...@sajari/react-search-ui@1.1.3) (2020-12-16)
+## [1.1.3](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.1.2...@tpham0/react-search-ui@1.1.3) (2020-12-16)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-## [1.1.2](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.1.1...@sajari/react-search-ui@1.1.2) (2020-12-15)
+## [1.1.2](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.1.1...@tpham0/react-search-ui@1.1.2) (2020-12-15)
 
 ### Bug Fixes
 
 - use const for languageChanged event ([338c70d](https://github.com/sajari/sdk-react/commit/338c70de5536d37bfcac5f007a1054831f73c182))
 
-## [1.1.1](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.1.0...@sajari/react-search-ui@1.1.1) (2020-12-15)
+## [1.1.1](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.1.0...@tpham0/react-search-ui@1.1.1) (2020-12-15)
 
 ### Bug Fixes
 
 - cleanup i18n event listener on dismount ([747687d](https://github.com/sajari/sdk-react/commit/747687de05323f3a75e5c101e9ebfd79e179481f))
 
-# [1.1.0](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0...@sajari/react-search-ui@1.1.0) (2020-12-15)
+# [1.1.0](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0...@tpham0/react-search-ui@1.1.0) (2020-12-15)
 
 ### Features
 
@@ -57,7 +57,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - merged v3 to master ([ba23102](https://github.com/sajari/sdk-react/commit/ba231022d78013689f69767e87b152d55ece1d6a))
 
-# [1.0.0-beta.13](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.12...@sajari/react-search-ui@1.0.0-beta.13) (2020-12-14)
+# [1.0.0-beta.13](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.12...@tpham0/react-search-ui@1.0.0-beta.13) (2020-12-14)
 
 ### Features
 
@@ -66,94 +66,94 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - RangeInput improvements ([3d2ac31](https://github.com/sajari/sdk-react/commit/3d2ac3155f74e521bbe57d75e184dcf8e0be6bcd))
 - various styling fixes ([7f41ad0](https://github.com/sajari/sdk-react/commit/7f41ad0f56be2cdf253c367312e4651fe7cf9b94))
 
-# [1.0.0-beta.12](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.11...@sajari/react-search-ui@1.0.0-beta.12) (2020-12-11)
+# [1.0.0-beta.12](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.11...@tpham0/react-search-ui@1.0.0-beta.12) (2020-12-11)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-beta.11](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.10...@sajari/react-search-ui@1.0.0-beta.11) (2020-12-10)
+# [1.0.0-beta.11](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.10...@tpham0/react-search-ui@1.0.0-beta.11) (2020-12-10)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-beta.10](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.9...@sajari/react-search-ui@1.0.0-beta.10) (2020-12-10)
+# [1.0.0-beta.10](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.9...@tpham0/react-search-ui@1.0.0-beta.10) (2020-12-10)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-beta.9](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.8...@sajari/react-search-ui@1.0.0-beta.9) (2020-12-09)
+# [1.0.0-beta.9](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.8...@tpham0/react-search-ui@1.0.0-beta.9) (2020-12-09)
 
 ### Features
 
 - added SSRProvider component ([8aaa2d5](https://github.com/sajari/sdk-react/commit/8aaa2d560803479c9697756322e2689c968e9a44))
 
-# [1.0.0-beta.8](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.7...@sajari/react-search-ui@1.0.0-beta.8) (2020-12-08)
+# [1.0.0-beta.8](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.7...@tpham0/react-search-ui@1.0.0-beta.8) (2020-12-08)
 
 ### Features
 
 - improvements to SSR support ([729dfeb](https://github.com/sajari/sdk-react/commit/729dfebc04efadbe1db297666ebec4a104208a70))
 
-# [1.0.0-beta.7](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.6...@sajari/react-search-ui@1.0.0-beta.7) (2020-12-07)
+# [1.0.0-beta.7](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.6...@tpham0/react-search-ui@1.0.0-beta.7) (2020-12-07)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-beta.6](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.5...@sajari/react-search-ui@1.0.0-beta.6) (2020-12-07)
+# [1.0.0-beta.6](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.5...@tpham0/react-search-ui@1.0.0-beta.6) (2020-12-07)
 
 ### Bug Fixes
 
 - don’t hide Filter when only one item ([1e61940](https://github.com/sajari/sdk-react/commit/1e6194089ccd86f5ddc9c872c9710ca789960617))
 - use Box more to prevent props bleeding to DOM ([f7f6dcc](https://github.com/sajari/sdk-react/commit/f7f6dccc36244ab7f3658d378c1fb740d626f159))
 
-# [1.0.0-beta.5](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.4...@sajari/react-search-ui@1.0.0-beta.5) (2020-12-04)
+# [1.0.0-beta.5](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.4...@tpham0/react-search-ui@1.0.0-beta.5) (2020-12-04)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-beta.4](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.3...@sajari/react-search-ui@1.0.0-beta.4) (2020-12-04)
+# [1.0.0-beta.4](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.3...@tpham0/react-search-ui@1.0.0-beta.4) (2020-12-04)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-beta.3](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.2...@sajari/react-search-ui@1.0.0-beta.3) (2020-12-04)
+# [1.0.0-beta.3](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.2...@tpham0/react-search-ui@1.0.0-beta.3) (2020-12-04)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-beta.2](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-beta.1...@sajari/react-search-ui@1.0.0-beta.2) (2020-12-04)
+# [1.0.0-beta.2](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-beta.1...@tpham0/react-search-ui@1.0.0-beta.2) (2020-12-04)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-beta.1](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.45...@sajari/react-search-ui@1.0.0-beta.1) (2020-12-04)
+# [1.0.0-beta.1](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.45...@tpham0/react-search-ui@1.0.0-beta.1) (2020-12-04)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.45](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.44...@sajari/react-search-ui@1.0.0-alpha.45) (2020-12-04)
+# [1.0.0-alpha.45](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.44...@tpham0/react-search-ui@1.0.0-alpha.45) (2020-12-04)
 
 ### Features
 
 - add option to control styles for Filter ([#280](https://github.com/sajari/sdk-react/issues/280)) ([fa7d6f5](https://github.com/sajari/sdk-react/commit/fa7d6f512ff032af523c691950a1076693129e4e))
 
-# [1.0.0-alpha.44](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.43...@sajari/react-search-ui@1.0.0-alpha.44) (2020-12-03)
+# [1.0.0-alpha.44](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.43...@tpham0/react-search-ui@1.0.0-alpha.44) (2020-12-03)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.43](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.42...@sajari/react-search-ui@1.0.0-alpha.43) (2020-12-03)
+# [1.0.0-alpha.43](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.42...@tpham0/react-search-ui@1.0.0-alpha.43) (2020-12-03)
 
 ### Bug Fixes
 
 - rename ResultsPerPage sizes prop to options for consistency ([4a2b6d4](https://github.com/sajari/sdk-react/commit/4a2b6d4fd8b60b337faeb237b53c23793b73f7ef))
 
-# [1.0.0-alpha.42](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.41...@sajari/react-search-ui@1.0.0-alpha.42) (2020-12-03)
+# [1.0.0-alpha.42](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.41...@tpham0/react-search-ui@1.0.0-alpha.42) (2020-12-03)
 
 ### Bug Fixes
 
 - slow render time in Swatch and Pagination ([#269](https://github.com/sajari/sdk-react/issues/269)) ([e3fd1b2](https://github.com/sajari/sdk-react/commit/e3fd1b299086d73c7e334341142c4f85ece44047))
 
-# [1.0.0-alpha.41](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.40...@sajari/react-search-ui@1.0.0-alpha.41) (2020-12-03)
+# [1.0.0-alpha.41](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.40...@tpham0/react-search-ui@1.0.0-alpha.41) (2020-12-03)
 
 ### Bug Fixes
 
 - inherit fontFamily in input components ([2823134](https://github.com/sajari/sdk-react/commit/2823134617c74ee65b17d160375fe48c28a37f7c))
 
-# [1.0.0-alpha.40](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.39...@sajari/react-search-ui@1.0.0-alpha.40) (2020-12-03)
+# [1.0.0-alpha.40](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.39...@tpham0/react-search-ui@1.0.0-alpha.40) (2020-12-03)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.39](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.38...@sajari/react-search-ui@1.0.0-alpha.39) (2020-12-03)
+# [1.0.0-alpha.39](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.38...@tpham0/react-search-ui@1.0.0-alpha.39) (2020-12-03)
 
 ### Bug Fixes
 
@@ -164,23 +164,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - add option to control styles for Combobox and Input ([#275](https://github.com/sajari/sdk-react/issues/275)) ([2772197](https://github.com/sajari/sdk-react/commit/2772197939c51f4e71990bb5255fbcbde2c75950))
 
-# [1.0.0-alpha.38](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.37...@sajari/react-search-ui@1.0.0-alpha.38) (2020-12-02)
+# [1.0.0-alpha.38](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.37...@tpham0/react-search-ui@1.0.0-alpha.38) (2020-12-02)
 
 ### Bug Fixes
 
 - don’t export useSearchContext from search-ui ([6d4ff49](https://github.com/sajari/sdk-react/commit/6d4ff497cae2cb19b78a5dc1b7498cddd691ad84))
 
-# [1.0.0-alpha.37](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.36...@sajari/react-search-ui@1.0.0-alpha.37) (2020-12-02)
+# [1.0.0-alpha.37](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.36...@tpham0/react-search-ui@1.0.0-alpha.37) (2020-12-02)
 
 ### Bug Fixes
 
 - resolve duplicate exports ([0cb64f1](https://github.com/sajari/sdk-react/commit/0cb64f1419ebab91dc9b18df4e4c83cb8bebc709))
 
-# [1.0.0-alpha.36](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.35...@sajari/react-search-ui@1.0.0-alpha.36) (2020-12-02)
+# [1.0.0-alpha.36](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.35...@tpham0/react-search-ui@1.0.0-alpha.36) (2020-12-02)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.35](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.34...@sajari/react-search-ui@1.0.0-alpha.35) (2020-12-02)
+# [1.0.0-alpha.35](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.34...@tpham0/react-search-ui@1.0.0-alpha.35) (2020-12-02)
 
 ### Bug Fixes
 
@@ -195,7 +195,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - design tweaks to view options ([d19202c](https://github.com/sajari/sdk-react/commit/d19202ce37082d03931f4733e2d70f9fb65c116c))
 - don’t render view options until initial search completed ([342abe3](https://github.com/sajari/sdk-react/commit/342abe3fa06e0f3167aa53746d8a9d48b190b9a8))
 
-# [1.0.0-alpha.34](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.33...@sajari/react-search-ui@1.0.0-alpha.34) (2020-12-01)
+# [1.0.0-alpha.34](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.33...@tpham0/react-search-ui@1.0.0-alpha.34) (2020-12-01)
 
 ### Features
 
@@ -203,14 +203,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - add option to control styles for Sorting ([#262](https://github.com/sajari/sdk-react/issues/262)) ([19bf28c](https://github.com/sajari/sdk-react/commit/19bf28c82a494c3d96235176396b097f3e927faa))
 - add option to control styles for ViewType ([#260](https://github.com/sajari/sdk-react/issues/260)) ([85cb234](https://github.com/sajari/sdk-react/commit/85cb2340c2014cb72815d7b6787aa3d10282b571))
 
-# [1.0.0-alpha.33](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.32...@sajari/react-search-ui@1.0.0-alpha.33) (2020-12-01)
+# [1.0.0-alpha.33](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.32...@tpham0/react-search-ui@1.0.0-alpha.33) (2020-12-01)
 
 ### Features
 
 - add option to control styling of components ([#248](https://github.com/sajari/sdk-react/issues/248)) ([fbc1114](https://github.com/sajari/sdk-react/commit/fbc1114399dfefaa48d215ba628da55130915b6b))
 - added TabFilter component ([#259](https://github.com/sajari/sdk-react/issues/259)) ([d19ccc7](https://github.com/sajari/sdk-react/commit/d19ccc76aebac7a26ee9386c72d4959d5d0b360e))
 
-# [1.0.0-alpha.32](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.31...@sajari/react-search-ui@1.0.0-alpha.32) (2020-11-30)
+# [1.0.0-alpha.32](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.31...@tpham0/react-search-ui@1.0.0-alpha.32) (2020-11-30)
 
 ### Bug Fixes
 
@@ -222,17 +222,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - added error handling in Results component ([3b9bedc](https://github.com/sajari/sdk-react/commit/3b9bedcd856b3b34413c8f52bb9f10f67788916c))
 - added i18n support ([9a977b2](https://github.com/sajari/sdk-react/commit/9a977b29d9f430686523bf65e54e5fb5921dce51))
 
-# [1.0.0-alpha.31](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.30...@sajari/react-search-ui@1.0.0-alpha.31) (2020-11-27)
+# [1.0.0-alpha.31](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.30...@tpham0/react-search-ui@1.0.0-alpha.31) (2020-11-27)
 
 ### Bug Fixes
 
 - remove fontSize specification on PageSize and ViewType ([5e3b6ad](https://github.com/sajari/sdk-react/commit/5e3b6adecd3daf0e3f74bba1899d3896dc385ed2))
 
-# [1.0.0-alpha.30](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.29...@sajari/react-search-ui@1.0.0-alpha.30) (2020-11-27)
+# [1.0.0-alpha.30](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.29...@tpham0/react-search-ui@1.0.0-alpha.30) (2020-11-27)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.29](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.28...@sajari/react-search-ui@1.0.0-alpha.29) (2020-11-27)
+# [1.0.0-alpha.29](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.28...@tpham0/react-search-ui@1.0.0-alpha.29) (2020-11-27)
 
 ### Bug Fixes
 
@@ -243,15 +243,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - add forceImage prop to always render an image placeholder ([8f8f5dc](https://github.com/sajari/sdk-react/commit/8f8f5dc79918fbe7d4b4c57da30d64fe937cddb5))
 - allow independent aspectRatio and objectFit props on Results ([7900493](https://github.com/sajari/sdk-react/commit/79004930cde3b403d52917c50e94d92aca47e98e))
 
-# [1.0.0-alpha.28](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.27...@sajari/react-search-ui@1.0.0-alpha.28) (2020-11-26)
+# [1.0.0-alpha.28](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.27...@tpham0/react-search-ui@1.0.0-alpha.28) (2020-11-26)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.27](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.26...@sajari/react-search-ui@1.0.0-alpha.27) (2020-11-26)
+# [1.0.0-alpha.27](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.26...@tpham0/react-search-ui@1.0.0-alpha.27) (2020-11-26)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.26](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.25...@sajari/react-search-ui@1.0.0-alpha.26) (2020-11-26)
+# [1.0.0-alpha.26](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.25...@tpham0/react-search-ui@1.0.0-alpha.26) (2020-11-26)
 
 ### Bug Fixes
 
@@ -262,40 +262,40 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 - add rating filter ([#253](https://github.com/sajari/sdk-react/issues/253)) ([3ea1dd8](https://github.com/sajari/sdk-react/commit/3ea1dd8417b034421a5d33781a190f09aaba8c91))
 - only pinSelected if item count is over limit ([33ded9a](https://github.com/sajari/sdk-react/commit/33ded9a50465af2c0a273b821a15bc879a980638))
 
-# [1.0.0-alpha.25](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.24...@sajari/react-search-ui@1.0.0-alpha.25) (2020-11-26)
+# [1.0.0-alpha.25](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.24...@tpham0/react-search-ui@1.0.0-alpha.25) (2020-11-26)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.24](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.23...@sajari/react-search-ui@1.0.0-alpha.24) (2020-11-26)
+# [1.0.0-alpha.24](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.23...@tpham0/react-search-ui@1.0.0-alpha.24) (2020-11-26)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.23](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.22...@sajari/react-search-ui@1.0.0-alpha.23) (2020-11-26)
+# [1.0.0-alpha.23](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.22...@tpham0/react-search-ui@1.0.0-alpha.23) (2020-11-26)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.22](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.21...@sajari/react-search-ui@1.0.0-alpha.22) (2020-11-26)
+# [1.0.0-alpha.22](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.21...@tpham0/react-search-ui@1.0.0-alpha.22) (2020-11-26)
 
 ### Bug Fixes
 
 - hide PageSize when not required ([2042bc2](https://github.com/sajari/sdk-react/commit/2042bc27bc9846b3e5b8b086e6683cc08740eeb4))
 - remove flash of single column in grid view ([87ac010](https://github.com/sajari/sdk-react/commit/87ac0107134d00a8c7e9e1ae2a410eaa796350be))
 
-# [1.0.0-alpha.21](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.20...@sajari/react-search-ui@1.0.0-alpha.21) (2020-11-26)
+# [1.0.0-alpha.21](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.20...@tpham0/react-search-ui@1.0.0-alpha.21) (2020-11-26)
 
 ### Bug Fixes
 
 - results appearance ([#249](https://github.com/sajari/sdk-react/issues/249)) ([ceef5b0](https://github.com/sajari/sdk-react/commit/ceef5b0cfc71635b4a4b090abaffc20ab4a6f880))
 
-# [1.0.0-alpha.20](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.19...@sajari/react-search-ui@1.0.0-alpha.20) (2020-11-26)
+# [1.0.0-alpha.20](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.19...@tpham0/react-search-ui@1.0.0-alpha.20) (2020-11-26)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.19](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.18...@sajari/react-search-ui@1.0.0-alpha.19) (2020-11-26)
+# [1.0.0-alpha.19](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.18...@tpham0/react-search-ui@1.0.0-alpha.19) (2020-11-26)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.18](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.17...@sajari/react-search-ui@1.0.0-alpha.18) (2020-11-26)
+# [1.0.0-alpha.18](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.17...@tpham0/react-search-ui@1.0.0-alpha.18) (2020-11-26)
 
 ### Bug Fixes
 
@@ -305,79 +305,79 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - added size options for view option components ([ccef487](https://github.com/sajari/sdk-react/commit/ccef487a60374d35ea5e4a08278a5d1334f5f305))
 
-# [1.0.0-alpha.17](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.16...@sajari/react-search-ui@1.0.0-alpha.17) (2020-11-26)
+# [1.0.0-alpha.17](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.16...@tpham0/react-search-ui@1.0.0-alpha.17) (2020-11-26)
 
 ### Bug Fixes
 
 - erronous reference to loading ([c71dcca](https://github.com/sajari/sdk-react/commit/c71dcca3f908c94815d82a5518843ce219c2f14d))
 
-# [1.0.0-alpha.16](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.15...@sajari/react-search-ui@1.0.0-alpha.16) (2020-11-25)
+# [1.0.0-alpha.16](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.15...@tpham0/react-search-ui@1.0.0-alpha.16) (2020-11-25)
 
 ### Bug Fixes
 
 - more styling fixes ([bd4d00d](https://github.com/sajari/sdk-react/commit/bd4d00de6dd42066b3751d4cf3c90c41239286a8))
 
-# [1.0.0-alpha.15](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.14...@sajari/react-search-ui@1.0.0-alpha.15) (2020-11-25)
+# [1.0.0-alpha.15](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.14...@tpham0/react-search-ui@1.0.0-alpha.15) (2020-11-25)
 
 ### Bug Fixes
 
 - minor styling fixes ([aced6a4](https://github.com/sajari/sdk-react/commit/aced6a4247633fa982c90881a9d6b4bbbca34ecb))
 - results grid view ([#245](https://github.com/sajari/sdk-react/issues/245)) ([40b6ac5](https://github.com/sajari/sdk-react/commit/40b6ac54adceb078017c53b7265c83a84a5852a7))
 
-# [1.0.0-alpha.14](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.13...@sajari/react-search-ui@1.0.0-alpha.14) (2020-11-25)
+# [1.0.0-alpha.14](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.13...@tpham0/react-search-ui@1.0.0-alpha.14) (2020-11-25)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.13](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.12...@sajari/react-search-ui@1.0.0-alpha.13) (2020-11-25)
+# [1.0.0-alpha.13](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.12...@tpham0/react-search-ui@1.0.0-alpha.13) (2020-11-25)
 
 ### Features
 
 - handle loading and no results in Results component ([2610a1a](https://github.com/sajari/sdk-react/commit/2610a1ad6c6da97ed7083b45a99eb294c1ff4554))
 - show loader in input when searching or autocompleting ([923d5a5](https://github.com/sajari/sdk-react/commit/923d5a51510e6a9b79bb4ee30a71b6edc05ef7fe))
 
-# [1.0.0-alpha.12](https://github.com/sajari/sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.11...@sajari/react-search-ui@1.0.0-alpha.12) (2020-11-24)
+# [1.0.0-alpha.12](https://github.com/sajari/sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.11...@tpham0/react-search-ui@1.0.0-alpha.12) (2020-11-24)
 
 ### Features
 
 - results styling improvements ([ab89200](https://github.com/sajari/sdk-react/commit/ab89200e690e1b3cc078a3628079b6d3f416a7f6))
 
-# [1.0.0-alpha.11](https://github.com/sajari/sajari-sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.10...@sajari/react-search-ui@1.0.0-alpha.11) (2020-11-20)
+# [1.0.0-alpha.11](https://github.com/sajari/sajari-sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.10...@tpham0/react-search-ui@1.0.0-alpha.11) (2020-11-20)
 
 ### Bug Fixes
 
 - image styles in list view ([e8a1149](https://github.com/sajari/sajari-sdk-react/commit/e8a114991c7c8a0d0abb07546d2fccb507278848))
 
-# [1.0.0-alpha.10](https://github.com/sajari/sajari-sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.9...@sajari/react-search-ui@1.0.0-alpha.10) (2020-11-18)
+# [1.0.0-alpha.10](https://github.com/sajari/sajari-sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.9...@tpham0/react-search-ui@1.0.0-alpha.10) (2020-11-18)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.9](https://github.com/sajari/sajari-sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.8...@sajari/react-search-ui@1.0.0-alpha.9) (2020-11-18)
+# [1.0.0-alpha.9](https://github.com/sajari/sajari-sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.8...@tpham0/react-search-ui@1.0.0-alpha.9) (2020-11-18)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.8](https://github.com/sajari/sajari-sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.7...@sajari/react-search-ui@1.0.0-alpha.8) (2020-11-18)
+# [1.0.0-alpha.8](https://github.com/sajari/sajari-sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.7...@tpham0/react-search-ui@1.0.0-alpha.8) (2020-11-18)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.7](https://github.com/sajari/sajari-sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.6...@sajari/react-search-ui@1.0.0-alpha.7) (2020-11-17)
+# [1.0.0-alpha.7](https://github.com/sajari/sajari-sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.6...@tpham0/react-search-ui@1.0.0-alpha.7) (2020-11-17)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.6](https://github.com/sajari/sajari-sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.5...@sajari/react-search-ui@1.0.0-alpha.6) (2020-11-17)
+# [1.0.0-alpha.6](https://github.com/sajari/sajari-sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.5...@tpham0/react-search-ui@1.0.0-alpha.6) (2020-11-17)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.5](https://github.com/sajari/sajari-sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.4...@sajari/react-search-ui@1.0.0-alpha.5) (2020-11-17)
+# [1.0.0-alpha.5](https://github.com/sajari/sajari-sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.4...@tpham0/react-search-ui@1.0.0-alpha.5) (2020-11-17)
 
-**Note:** Version bump only for package @sajari/react-search-ui
+**Note:** Version bump only for package @tpham0/react-search-ui
 
-# [1.0.0-alpha.4](https://github.com/sajari/sajari-sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.3...@sajari/react-search-ui@1.0.0-alpha.4) (2020-11-17)
+# [1.0.0-alpha.4](https://github.com/sajari/sajari-sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.3...@tpham0/react-search-ui@1.0.0-alpha.4) (2020-11-17)
 
 ### Features
 
 - updated props for Filter component ([#227](https://github.com/sajari/sajari-sdk-react/issues/227)) ([b44e7f2](https://github.com/sajari/sajari-sdk-react/commit/b44e7f294fa64033bdc04bd8a0414387e2b702ea))
 
-# [1.0.0-alpha.3](https://github.com/sajari/sajari-sdk-react/compare/@sajari/react-search-ui@1.0.0-alpha.2...@sajari/react-search-ui@1.0.0-alpha.3) (2020-11-16)
+# [1.0.0-alpha.3](https://github.com/sajari/sajari-sdk-react/compare/@tpham0/react-search-ui@1.0.0-alpha.2...@tpham0/react-search-ui@1.0.0-alpha.3) (2020-11-16)
 
 ### Bug Fixes
 

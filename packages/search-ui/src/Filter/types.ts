@@ -1,4 +1,4 @@
-import { RangeInputProps } from '@sajari/react-components';
+import { RangeInputProps } from '@tpham0/react-components';
 import * as React from 'react';
 
 export interface HeaderProps {

@@ -1,4 +1,4 @@
-import { BoxProps } from '@sajari/react-components';
+import { BoxProps } from '@tpham0/react-components';
 
 export interface ViewOptionProps extends Omit<BoxProps, 'className'> {
   id: string;

@@ -1,5 +1,5 @@
-import { FilterItem } from '@sajari/react-hooks';
-import { isSSR } from '@sajari/react-sdk-utils';
+import { FilterItem } from '@tpham0/react-hooks';
+import { isSSR } from '@tpham0/react-sdk-utils';
 
 /**
  * Sort an array based on a property of child item

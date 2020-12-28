@@ -1,4 +1,4 @@
-import { filterProps, forwardRefWithAs, PropsWithAs } from '@sajari/react-sdk-utils';
+import { filterProps, forwardRefWithAs, PropsWithAs } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 
 import { BoxProps } from './types';

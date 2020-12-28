@@ -1,4 +1,4 @@
-# @sajari/react-hooks
+# @tpham0/react-hooks
 
 Hooks that allow you to build a search interface using any component library.
 

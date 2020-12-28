@@ -1,5 +1,5 @@
-import { RangeInput } from '@sajari/react-components';
-import { useRangeFilter } from '@sajari/react-hooks';
+import { RangeInput } from '@tpham0/react-components';
+import { useRangeFilter } from '@tpham0/react-hooks';
 import * as React from 'react';
 
 import { useSearchUIContext } from '../ContextProvider';

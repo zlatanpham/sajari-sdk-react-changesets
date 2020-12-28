@@ -1,5 +1,5 @@
-import { Box, Heading, Spinner, Text } from '@sajari/react-components';
-import { getStylesObject } from '@sajari/react-sdk-utils';
+import { Box, Heading, Spinner, Text } from '@tpham0/react-components';
+import { getStylesObject } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 
 import useMessageStyles from './styles';

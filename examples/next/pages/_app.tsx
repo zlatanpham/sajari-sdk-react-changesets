@@ -4,7 +4,7 @@ import './app.css';
 import { AppProps } from 'next/app';
 import Head from 'next/head';
 
-import { SSRProvider } from '@sajari/react-components';
+import { SSRProvider } from '@tpham0/react-components';
 
 const title = 'React SDK';
 

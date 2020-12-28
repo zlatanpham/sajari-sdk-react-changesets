@@ -1,4 +1,4 @@
-import { inferStylesObjectKeys, mapStyles } from '@sajari/react-sdk-utils';
+import { inferStylesObjectKeys, mapStyles } from '@tpham0/react-sdk-utils';
 import tw, { TwStyle } from 'twin.macro';
 
 import { useFocusRingStyles } from '../hooks';

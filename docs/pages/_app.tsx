@@ -9,7 +9,7 @@ import MDXComponents from '../components/MDXComponents';
 import MobileNav from '../components/Navigation/MobileNav';
 import SideNav from '../components/Navigation/SideNav';
 import TopNavItem from '../components/Navigation/TopNavItem';
-import { SSRProvider } from '@sajari/react-components';
+import { SSRProvider } from '@tpham0/react-components';
 
 const Layout = (props: FlexProps) => {
   const { children, ...rest } = props;

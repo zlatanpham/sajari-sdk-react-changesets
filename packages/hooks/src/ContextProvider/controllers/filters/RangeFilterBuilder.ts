@@ -1,4 +1,4 @@
-import { isArray } from '@sajari/react-sdk-utils';
+import { isArray } from '@tpham0/react-sdk-utils';
 
 import { EVENT_RANGE_UPDATED } from '../../events';
 import { Listener } from '../Listener';

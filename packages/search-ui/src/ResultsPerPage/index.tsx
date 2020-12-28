@@ -1,6 +1,6 @@
 import { useId } from '@react-aria/utils';
-import { Select } from '@sajari/react-components';
-import { useResultsPerPage, useSearchContext } from '@sajari/react-hooks';
+import { Select } from '@tpham0/react-components';
+import { useResultsPerPage, useSearchContext } from '@tpham0/react-hooks';
 import * as React from 'react';
 import { useTranslation } from 'react-i18next';
 

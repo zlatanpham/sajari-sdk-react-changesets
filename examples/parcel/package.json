@@ -1,5 +1,5 @@
 {
-  "name": "@sajari/react-parcel-example",
+  "name": "@tpham0/react-parcel-example",
   "version": "1.0.0",
   "private": true,
   "main": "index.js",
@@ -12,7 +12,7 @@
     "react-app-polyfill": "^2.0.0"
   },
   "alias": {
-    "@sajari/react-search-ui": "../packages/search-ui",
+    "@tpham0/react-search-ui": "../packages/search-ui",
     "react": "../node_modules/react",
     "react-dom": "../node_modules/react-dom/profiling",
     "scheduler/tracing": "../node_modules/scheduler/tracing-profiling"

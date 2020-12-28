@@ -1,6 +1,6 @@
 /* eslint-disable import/named */
 /* eslint-disable @typescript-eslint/no-shadow */
-import { createContext, isEmpty, isString } from '@sajari/react-sdk-utils';
+import { createContext, isEmpty, isString } from '@tpham0/react-sdk-utils';
 import React, { useCallback, useEffect, useRef, useState } from 'react';
 
 import { Config, defaultConfig } from './Config';

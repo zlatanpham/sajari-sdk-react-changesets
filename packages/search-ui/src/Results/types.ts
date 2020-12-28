@@ -1,4 +1,4 @@
-import { BoxProps, ImageProps } from '@sajari/react-components';
+import { BoxProps, ImageProps } from '@tpham0/react-components';
 
 export type ColumnValue = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12;
 export type GapValue = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12;
