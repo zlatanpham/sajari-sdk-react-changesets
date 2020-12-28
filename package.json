@@ -44,6 +44,8 @@
     "@emotion/jest": "^11.1.0",
     "@svgr/rollup": "^5.5.0",
     "@testing-library/dom": "^7.29.0",
+    "@changesets/changelog-github": "^0.2.7",
+    "@changesets/cli": "^2.12.0",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/react-hooks": "^3.7.0",
