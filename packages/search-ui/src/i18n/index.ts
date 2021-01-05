@@ -3,6 +3,7 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 
 import en from './locale/en';
 
+// TODO:
 i18n.use(LanguageDetector).init({
   resources: {
     en,
