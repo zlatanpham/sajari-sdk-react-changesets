@@ -1,0 +1,15 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "sajari-sdk-docs": "1.1.4",
+    "@tpham0/react-components": "1.1.4",
+    "@tpham0/react-hooks": "1.0.6",
+    "@tpham0/react-search-ui": "1.1.8",
+    "@tpham0/server": "1.0.6",
+    "@tpham0/react-sdk-utils": "1.1.2"
+  },
+  "changesets": [
+    "shaggy-mayflies-wait"
+  ]
+}

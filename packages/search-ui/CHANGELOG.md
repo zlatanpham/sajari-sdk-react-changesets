@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.1.9-next.0
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @tpham0/react-components@1.1.5-next.0
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
