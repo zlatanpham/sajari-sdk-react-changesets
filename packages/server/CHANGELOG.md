@@ -1,5 +1,17 @@
 # Change Log
 
+## 1.0.7
+
+### Patch Changes
+
+- test
+
+* [`3ed341c`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/3ed341c5a7da4733597814b6d12006fe4169533f) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test
+
+* Updated dependencies [[`3ed341c`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/3ed341c5a7da4733597814b6d12006fe4169533f)]:
+  - @tpham0/react-hooks@1.0.7
+  - @tpham0/react-sdk-utils@1.1.3
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 

@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.1.5
+
+### Patch Changes
+
+- [`8007a12`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/8007a122dceb2ac7c9f0631d269f4f85be3b800c) [#2](https://github.com/zlatanpham/sajari-sdk-react-changesets/pull/2) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test
+
+* test
+
+- [`3ed341c`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/3ed341c5a7da4733597814b6d12006fe4169533f) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test
+
+* [`a0a0264`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/a0a026489717d7f19f983a8631f789de795947e1) [#5](https://github.com/zlatanpham/sajari-sdk-react-changesets/pull/5) Thanks [@tuanddd](https://github.com/tuanddd)! - revert
+
+* Updated dependencies [[`3ed341c`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/3ed341c5a7da4733597814b6d12006fe4169533f)]:
+  - @tpham0/react-sdk-utils@1.1.3
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 

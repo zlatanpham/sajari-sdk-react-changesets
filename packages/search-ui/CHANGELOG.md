@@ -1,5 +1,30 @@
 # Change Log
 
+## 1.2.0
+
+### Minor Changes
+
+- [`21fbd27`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/21fbd27e4c69de6f9dc16378708dfe909da562d1) [#9](https://github.com/zlatanpham/sajari-sdk-react-changesets/pull/9) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test
+
+### Patch Changes
+
+- [`12c7036`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/12c70366c21363c8e2da0489ece0bba0f46d7555) [#4](https://github.com/zlatanpham/sajari-sdk-react-changesets/pull/4) Thanks [@tuanddd](https://github.com/tuanddd)! - test
+
+* [`1cc3287`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/1cc32870b239d245836357c46fcdf4456cab98fe) [#3](https://github.com/zlatanpham/sajari-sdk-react-changesets/pull/3) Thanks [@zlatanpham](https://github.com/zlatanpham)! - itest
+
+- test
+
+* [`3ed341c`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/3ed341c5a7da4733597814b6d12006fe4169533f) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test
+
+- [`b194c83`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/b194c83621eeee970262b42eb2929139a3c9ad14) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test description
+
+* [`a0a0264`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/a0a026489717d7f19f983a8631f789de795947e1) [#5](https://github.com/zlatanpham/sajari-sdk-react-changesets/pull/5) Thanks [@tuanddd](https://github.com/tuanddd)! - revert
+
+* Updated dependencies [[`8007a12`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/8007a122dceb2ac7c9f0631d269f4f85be3b800c), [`3ed341c`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/3ed341c5a7da4733597814b6d12006fe4169533f), [`a0a0264`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/a0a026489717d7f19f983a8631f789de795947e1)]:
+  - @tpham0/react-components@1.1.5
+  - @tpham0/react-hooks@1.0.7
+  - @tpham0/react-sdk-utils@1.1.3
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
