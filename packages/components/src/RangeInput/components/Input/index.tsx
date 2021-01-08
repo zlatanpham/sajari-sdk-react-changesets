@@ -10,9 +10,9 @@ import { RangeInputInputProps } from './types';
 
 const Input = (props: RangeInputInputProps) => {
   const ref = React.useRef<HTMLInputElement>(null);
-  const { inputProps, labelProps } = useTextField({ ...props, type: 'number' }, ref);
-  const { label, min, max, disableDefaultStyles = false, styles: stylesProp, className } = props;
-  const { styles: inputStyles, focusProps } = useRangeInputStyles(props);
+  const { labelProps } = useTextField({ ...props, type: 'number' }, ref);
+  const { label, disableDefaultStyles = false, styles: stylesProp, className } = props;
+  const { styles: inputStyles } = useRangeInputStyles(props);
   const styles = getStylesObject(inputStyles, disableDefaultStyles);
 
   return (
@@ -20,7 +20,6 @@ const Input = (props: RangeInputInputProps) => {
       <Box as="label" css={tw`sr-only`} {...labelProps}>
         {label}
       </Box>
-      <Box as="input" css={styles.input} {...inputProps} {...focusProps} min={min} max={max} ref={ref} />
     </Box>
   );
 };
