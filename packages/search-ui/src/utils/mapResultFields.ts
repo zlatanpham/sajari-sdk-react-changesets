@@ -1,9 +1,10 @@
-import { FieldDictionary } from '@tpham0/react-hooks';
 import { Result } from '@sajari/sdk-js';
+import { FieldDictionary } from '@tpham0/react-hooks';
 
 const fillTemplate = <T = Record<string, string | string[]>>(template: string, variables: T) =>
   template.replace(/\${(.*?)}/g, (_, g: string) => variables[g].toString());
 
+// TODO
 export function mapFields<T = Record<string, string | string[] | null>>(values: T, fields: FieldDictionary = {}) {
   return Object.entries(fields).reduce(
     (mapped, [to, from]) => {
