@@ -1,6 +1,6 @@
 {
   "name": "@tpham0/react-search-ui",
-  "version": "1.1.8",
+  "version": "1.1.9-next.0",
   "description": "Easy to use search components to quickly build a beautiful search interface powered by Sajari.",
   "sideEffects": false,
   "repository": {
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@react-aria/utils": "3.4.1",
-    "@tpham0/react-components": "^1.1.4",
+    "@tpham0/react-components": "^1.1.5-next.0",
     "@tpham0/react-hooks": "^1.0.6",
     "@tpham0/react-sdk-utils": "^1.1.2",
     "i18next": "19.8.4",

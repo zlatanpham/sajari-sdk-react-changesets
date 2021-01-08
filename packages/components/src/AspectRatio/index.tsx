@@ -20,6 +20,7 @@ const Component = (props: PropsWithAs<AspectRatioProps, DefaultElement>, ref: Re
   }
 
   const styles = getStylesObject({ container: useAspectRatioStyles({ ...props, ratio }) }, disableDefaultStyles);
+  console.log(12);
 
   return (
     <Box ref={ref} as={as} {...rest} css={[styles.container, stylesProp]}>
