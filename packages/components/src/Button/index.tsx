@@ -12,6 +12,7 @@ import { ButtonProps } from './types';
 const Button = React.forwardRef((props: ButtonProps, ref?: React.Ref<HTMLElement>) => {
   const {
     // TODO: handle the state later as we might need a Spinner/Icon component
+    // TODO: handle the state later as we might need a Spinner/Icon component
     loading = false,
     as = 'button',
     appearance = 'default',
