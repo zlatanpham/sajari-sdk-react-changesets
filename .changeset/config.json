@@ -3,7 +3,7 @@
   "changelog": [
     "tuanddd-changelog-github",
     {
-      "repo": "https://github.com/zlatanpham/changesets-monorepo-testing"
+      "repo": "zlatanpham/sajari-sdk-react-changesets"
     }
   ],
   "commit": false,
