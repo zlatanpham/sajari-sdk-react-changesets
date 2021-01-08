@@ -19,8 +19,7 @@
     "release": "changeset publish"
   },
   "workspaces": [
-    "packages/*",
-    "docs"
+    "packages/*"
   ],
   "husky": {
     "hooks": {
