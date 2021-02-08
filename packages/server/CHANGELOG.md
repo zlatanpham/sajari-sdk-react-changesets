@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.3.1
+
+### Patch Changes
+
+- Updated dependencies [[`263ec54`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/263ec5471514714a63f56907a14578890628ee9a)]:
+  - @tpham0/react-sdk-utils@2.0.0
+  - @tpham0/react-hooks@1.5.1
+
 ## 1.3.0
 
 ### Minor Changes
