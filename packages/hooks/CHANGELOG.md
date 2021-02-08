@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.5.2
+
+### Patch Changes
+
+- Updated dependencies [[`0100223`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/010022334bb1b997a723c7af60c19e4ae78d2be7)]:
+  - @tpham0/react-sdk-utils@3.0.0
+
 ## 1.5.1
 
 ### Patch Changes
