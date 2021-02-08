@@ -1,19 +1,10 @@
 import { NextSeo, NextSeoProps } from 'next-seo';
 import * as React from 'react';
-import { ValueOf } from 'type-fest';
 
 import defaultSEO from '../seo.config';
 
-export const scopes = {
-  classes: 'Classes',
-  components: 'Components',
-  hooks: 'Hooks',
-  searchUI: 'Search UI',
-  tracking: 'Tracking',
-};
-
 interface SeoProps extends NextSeoProps {
-  scope?: ValueOf<typeof scopes>;
+  scope?: string;
 }
 
 function SEO(props: SeoProps) {
