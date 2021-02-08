@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.8.0
+
+### Minor Changes
+
+- [`ee72945`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/ee729457883d30522e88c1e1f3b0ca9eb6ab590f) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test
+
+### Patch Changes
+
+- Updated dependencies [[`ee72945`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/ee729457883d30522e88c1e1f3b0ca9eb6ab590f)]:
+  - @tpham0/react-components@1.6.0
+  - @tpham0/react-hooks@1.5.0
+  - @tpham0/react-sdk-utils@1.4.0
+
 ## 1.7.13
 
 ### Patch Changes
