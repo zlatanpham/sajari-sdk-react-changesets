@@ -7,7 +7,7 @@ on:
 
 jobs:
   release:
-    if: github.repository == 'sajari/sdk-react'
+    if: github.repository == 'zlatanpham/sajari-sdk-react-changesets'
 
     timeout-minutes: 20
 
