@@ -31,51 +31,51 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.2.0](https://github.com/sajari/sdk-react/compare/@sajari/server@1.1.1...@sajari/server@1.2.0) (2021-01-14)
+# [1.2.0](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.1.1...@tpham0/server@1.2.0) (2021-01-14)
 
 ### Features
 
 - add support for concatenating variables.filter and filters ([#352](https://github.com/sajari/sdk-react/issues/352)) ([2458dd3](https://github.com/sajari/sdk-react/commit/2458dd38e05cfc68a433538e2bf78d6f493d4509))
 
-## [1.0.10](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.9...@sajari/server@1.0.10) (2021-01-08)
+## [1.0.10](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.9...@tpham0/server@1.0.10) (2021-01-08)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
-## [1.0.9](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.8...@sajari/server@1.0.9) (2021-01-07)
+## [1.0.9](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.8...@tpham0/server@1.0.9) (2021-01-07)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
-## [1.0.8](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.7...@sajari/server@1.0.8) (2021-01-05)
+## [1.0.8](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.7...@tpham0/server@1.0.8) (2021-01-05)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
-## [1.0.7](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.6...@sajari/server@1.0.7) (2020-12-31)
+## [1.0.7](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.6...@tpham0/server@1.0.7) (2020-12-31)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
-## [1.0.6](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.5...@sajari/server@1.0.6) (2020-12-21)
+## [1.0.6](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.5...@tpham0/server@1.0.6) (2020-12-21)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
-## [1.0.5](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.4...@sajari/server@1.0.5) (2020-12-21)
+## [1.0.5](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.4...@tpham0/server@1.0.5) (2020-12-21)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
-## [1.0.4](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.3...@sajari/server@1.0.4) (2020-12-18)
+## [1.0.4](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.3...@tpham0/server@1.0.4) (2020-12-18)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
-## [1.0.3](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.2...@sajari/server@1.0.3) (2020-12-16)
+## [1.0.3](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.2...@tpham0/server@1.0.3) (2020-12-16)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
-## [1.0.2](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.1...@sajari/server@1.0.2) (2020-12-15)
+## [1.0.2](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.1...@tpham0/server@1.0.2) (2020-12-15)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
-## [1.0.1](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.0...@sajari/server@1.0.1) (2020-12-15)
+## [1.0.1](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.0...@tpham0/server@1.0.1) (2020-12-15)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
 # 1.0.0 (2020-12-14)
 
@@ -83,23 +83,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 - merged v3 to master ([ba23102](https://github.com/sajari/sdk-react/commit/ba231022d78013689f69767e87b152d55ece1d6a))
 
-# [1.0.0-beta.5](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.0-beta.4...@sajari/server@1.0.0-beta.5) (2020-12-14)
+# [1.0.0-beta.5](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.0-beta.4...@tpham0/server@1.0.0-beta.5) (2020-12-14)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
-# [1.0.0-beta.4](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.0-beta.3...@sajari/server@1.0.0-beta.4) (2020-12-11)
+# [1.0.0-beta.4](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.0-beta.3...@tpham0/server@1.0.0-beta.4) (2020-12-11)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
-# [1.0.0-beta.3](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.0-beta.2...@sajari/server@1.0.0-beta.3) (2020-12-10)
+# [1.0.0-beta.3](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.0-beta.2...@tpham0/server@1.0.0-beta.3) (2020-12-10)
 
 ### Features
 
 - don’t require all SearchProviderValues as props to search method ([2a7c74b](https://github.com/sajari/sdk-react/commit/2a7c74b81b92f40907646e4205d1c51e8db363a5))
 
-# [1.0.0-beta.2](https://github.com/sajari/sdk-react/compare/@sajari/server@1.0.0-beta.1...@sajari/server@1.0.0-beta.2) (2020-12-10)
+# [1.0.0-beta.2](https://github.com/sajari/sdk-react/compare/@tpham0/server@1.0.0-beta.1...@tpham0/server@1.0.0-beta.2) (2020-12-10)
 
-**Note:** Version bump only for package @sajari/server
+**Note:** Version bump only for package @tpham0/server
 
 # 1.0.0-beta.1 (2020-12-10)
 

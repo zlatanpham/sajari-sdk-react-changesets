@@ -1,4 +1,4 @@
-# @sajari/server
+# @tpham0/server
 
 Helpers for server-side rendering your React application using Sajari search.
 

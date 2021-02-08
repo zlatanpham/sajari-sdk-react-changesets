@@ -43,7 +43,7 @@ export default () => (
 
 ## Fetching data
 
-In order to render the components or use hooks while server side rendering, you need a way to fetch data. For this, you can use the `server` function from the `@sajari/server` package. It expects the same props as `SearchProvider`.
+In order to render the components or use hooks while server side rendering, you need a way to fetch data. For this, you can use the `server` function from the `@tpham0/server` package. It expects the same props as `SearchProvider`.
 
 Here's how this Next.js example works:
 
@@ -66,7 +66,7 @@ import {
   SSRProvider,
   Pagination,
 } from '@tpham0/react-search-ui';
-import { search } from '@sajari/server';
+import { search } from '@tpham0/server';
 import { useSearchContext } from '@tpham0/react-hooks';
 
 const pipelineConfig = {

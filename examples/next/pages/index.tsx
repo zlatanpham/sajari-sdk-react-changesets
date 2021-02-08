@@ -10,7 +10,7 @@ import {
   SSRProvider,
   Variables,
 } from '@tpham0/react-search-ui';
-import { search } from '@sajari/server';
+import { search } from '@tpham0/server';
 import * as React from 'react';
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any

@@ -1,5 +1,5 @@
 {
-  "name": "@sajari/server",
+  "name": "@tpham0/server",
   "version": "1.2.3",
   "description": "SSR helpers",
   "sideEffects": false,

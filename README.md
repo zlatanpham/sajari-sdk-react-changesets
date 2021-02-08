@@ -30,7 +30,7 @@ Hooks that allow you to build a search interface using any component library.
 
 Easy to use search components to quickly build a beautiful search interface. If you've used previous versions of our SDK, you'll be most familiar with this package.
 
-### @sajari/server
+### @tpham0/server
 
 Helpers for server-side rendering your React application using Sajari search.
 
