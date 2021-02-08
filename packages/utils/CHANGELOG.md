@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.1.0
+
+### Minor Changes
+
+- [`b2f7fef`](https://github.com/zlatanpham/sajari-sdk-react-changesets/commit/b2f7fef094a415990ccb5f6fc1d9b996e18c539a) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test
+
 ## 3.0.0
 
 ### Major Changes
