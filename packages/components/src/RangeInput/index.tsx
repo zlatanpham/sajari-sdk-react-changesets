@@ -10,7 +10,7 @@ import {
   isString,
   noop,
   roundToStep,
-} from '@sajari/react-sdk-utils';
+} from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 import { useRanger } from 'react-ranger';
 

@@ -1,4 +1,4 @@
-import { __DEV__, noop } from '@sajari/react-sdk-utils';
+import { __DEV__, noop } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 
 import Box from '../Box';

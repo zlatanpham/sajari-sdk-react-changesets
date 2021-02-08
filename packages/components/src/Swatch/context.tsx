@@ -1,4 +1,4 @@
-import { createContext } from '@sajari/react-sdk-utils';
+import { createContext } from '@tpham0/react-sdk-utils';
 
 interface SwatchContextProps {
   state: string[];

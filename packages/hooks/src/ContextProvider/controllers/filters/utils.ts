@@ -1,4 +1,4 @@
-import { groupBy, isEmpty } from '@sajari/react-sdk-utils';
+import { groupBy, isEmpty } from '@tpham0/react-sdk-utils';
 
 import FilterBuilder from './FilterBuilder';
 import RangeFilterBuilder from './RangeFilterBuilder';

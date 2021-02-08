@@ -2,7 +2,7 @@ import React from 'react';
 
 import { useModalContext } from '../context';
 import { ModalCloseButtonProps } from './types';
-import { callAllHandlers, __DEV__, getStylesObject } from '@sajari/react-sdk-utils';
+import { callAllHandlers, __DEV__, getStylesObject } from '@tpham0/react-sdk-utils';
 import { IconClose } from '../../assets/icons';
 import useModalCloseButtonStyles from './styles';
 
@@ -20,7 +20,7 @@ const ModalCloseButton = React.forwardRef((props: ModalCloseButtonProps, ref?: R
       {...rest}
     >
       &#8203;
-      <IconClose css={styles.icon}/>
+      <IconClose css={styles.icon} />
     </button>
   );
 });

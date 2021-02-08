@@ -1,4 +1,4 @@
-import { useFilter, useSearchContext } from '@sajari/react-hooks';
+import { useFilter, useSearchContext } from '@tpham0/react-hooks';
 import {
   FieldDictionary,
   FilterBuilder,
@@ -9,7 +9,7 @@ import {
   SearchProvider,
   SSRProvider,
   Variables,
-} from '@sajari/react-search-ui';
+} from '@tpham0/react-search-ui';
 import { search } from '@sajari/server';
 import * as React from 'react';
 

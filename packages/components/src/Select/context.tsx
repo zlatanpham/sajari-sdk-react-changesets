@@ -1,4 +1,4 @@
-import { createContext } from '@sajari/react-sdk-utils';
+import { createContext } from '@tpham0/react-sdk-utils';
 import { PropGetters } from 'downshift';
 
 import { Item, SelectCustomClassNames, SelectProps } from './types';

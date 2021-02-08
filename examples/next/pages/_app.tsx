@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-props-no-spreading */
 import './app.css';
 
-import { SSRProvider } from '@sajari/react-components';
+import { SSRProvider } from '@tpham0/react-components';
 import { AppProps } from 'next/app';
 import Head from 'next/head';
 

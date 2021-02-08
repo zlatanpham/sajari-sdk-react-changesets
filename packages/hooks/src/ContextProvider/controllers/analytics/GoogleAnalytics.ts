@@ -1,5 +1,5 @@
 /* eslint-disable no-restricted-syntax */
-import { isFunction, isSSR } from '@sajari/react-sdk-utils';
+import { isFunction, isSSR } from '@tpham0/react-sdk-utils';
 
 import { EVENT_ANALYTICS_BODY_RESET, EVENT_ANALYTICS_PAGE_CLOSED, EVENT_ANALYTICS_RESULT_CLICKED } from '../../events';
 import { UnlistenFn } from '../Listener';

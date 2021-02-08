@@ -1,4 +1,4 @@
-import { __DEV__, getStylesObject, isSSR } from '@sajari/react-sdk-utils';
+import { __DEV__, getStylesObject, isSSR } from '@tpham0/react-sdk-utils';
 import classnames from 'classnames';
 import React, { useEffect, useRef, useState } from 'react';
 

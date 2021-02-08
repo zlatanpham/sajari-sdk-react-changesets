@@ -1,5 +1,5 @@
-import { RangeInputProps } from '@sajari/react-components';
-import { SortType } from '@sajari/react-hooks';
+import { RangeInputProps } from '@tpham0/react-components';
+import { SortType } from '@tpham0/react-hooks';
 import * as React from 'react';
 
 export interface HeaderProps {

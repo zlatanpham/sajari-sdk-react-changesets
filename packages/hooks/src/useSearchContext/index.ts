@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { isNullOrUndefined } from '@sajari/react-sdk-utils';
+import { isNullOrUndefined } from '@tpham0/react-sdk-utils';
 
 import { useContext } from '../ContextProvider';
 import usePagination from '../usePagination';

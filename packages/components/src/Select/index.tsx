@@ -1,5 +1,5 @@
 import { useId } from '@react-aria/utils';
-import { __DEV__, cleanChildren, getStylesObject, isArray, isString } from '@sajari/react-sdk-utils';
+import { __DEV__, cleanChildren, getStylesObject, isArray, isString } from '@tpham0/react-sdk-utils';
 import { useSelect, UseSelectState, UseSelectStateChangeOptions } from 'downshift';
 import * as React from 'react';
 

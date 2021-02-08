@@ -1,4 +1,4 @@
-import { BoxProps } from '@sajari/react-components';
+import { BoxProps } from '@tpham0/react-components';
 
 import { ViewOptionProps } from '../ViewOption';
 

@@ -1,6 +1,6 @@
 /* eslint-disable no-nested-ternary */
 
-import { __DEV__, cleanChildren, getStylesObject } from '@sajari/react-sdk-utils';
+import { __DEV__, cleanChildren, getStylesObject } from '@tpham0/react-sdk-utils';
 import React, { cloneElement } from 'react';
 import tw, { styled } from 'twin.macro';
 

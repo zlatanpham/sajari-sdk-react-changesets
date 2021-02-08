@@ -1,4 +1,4 @@
-import { isArray, round, roundToStep } from '@sajari/react-sdk-utils';
+import { isArray, round, roundToStep } from '@tpham0/react-sdk-utils';
 
 import { EVENT_RANGE_UPDATED } from '../../events';
 import { Listener } from '../Listener';

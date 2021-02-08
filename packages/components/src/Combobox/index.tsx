@@ -1,7 +1,7 @@
 /* eslint-disable prefer-arrow-callback */
 
 import { mergeProps, useId } from '@react-aria/utils';
-import { __DEV__, getStylesObject, isFunction } from '@sajari/react-sdk-utils';
+import { __DEV__, getStylesObject, isFunction } from '@tpham0/react-sdk-utils';
 import { useCombobox } from 'downshift';
 import React, { ChangeEvent, KeyboardEvent, useEffect, useState } from 'react';
 import tw from 'twin.macro';

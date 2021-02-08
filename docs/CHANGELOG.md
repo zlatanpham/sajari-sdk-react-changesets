@@ -34,7 +34,7 @@
 
 - [`8f1bd0e6`](https://github.com/sajari/sdk-react/commit/8f1bd0e6d197f19dca1c1af2bc2d2f1e2785d4fb) [#374](https://github.com/sajari/sdk-react/pull/374) Thanks [@sampotts](https://github.com/sampotts)! - Allow ClickTracking on non URL fields
 
-* [`d1af5773`](https://github.com/sajari/sdk-react/commit/d1af57738741a0600e2d15797ffff5648d1c4334) [#366](https://github.com/sajari/sdk-react/pull/366) Thanks [@zlatanpham](https://github.com/zlatanpham)! - Added Modal component for `@sajari/react-components`.
+* [`d1af5773`](https://github.com/sajari/sdk-react/commit/d1af57738741a0600e2d15797ffff5648d1c4334) [#366](https://github.com/sajari/sdk-react/pull/366) Thanks [@zlatanpham](https://github.com/zlatanpham)! - Added Modal component for `@tpham0/react-components`.
 
 ## 1.6.3
 

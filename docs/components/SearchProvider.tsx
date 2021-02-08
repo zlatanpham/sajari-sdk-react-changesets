@@ -1,4 +1,4 @@
-import { Pipeline, Variables, SearchProviderValues, FieldDictionary, SearchProvider } from '@sajari/react-search-ui';
+import { Pipeline, Variables, SearchProviderValues, FieldDictionary, SearchProvider } from '@tpham0/react-search-ui';
 import { useRef } from 'react';
 
 const ContextProvider: React.FC = ({ children }) => {

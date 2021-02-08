@@ -1,5 +1,5 @@
 /* eslint-disable no-param-reassign */
-import { isEmpty, isFunction, isString, replaceAll } from '@sajari/react-sdk-utils';
+import { isEmpty, isFunction, isString, replaceAll } from '@tpham0/react-sdk-utils';
 
 import { EVENT_OPTIONS_UPDATED, EVENT_SELECTION_UPDATED } from '../../events';
 import { Listener } from '../Listener';

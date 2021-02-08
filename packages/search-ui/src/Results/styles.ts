@@ -1,4 +1,4 @@
-import { clamp, inferStylesObjectKeys, isNumber, isObject, mapStyles } from '@sajari/react-sdk-utils';
+import { clamp, inferStylesObjectKeys, isNumber, isObject, mapStyles } from '@tpham0/react-sdk-utils';
 import tw from 'twin.macro';
 
 import { ColumnValue, GapValue, ResultsProps } from './types';

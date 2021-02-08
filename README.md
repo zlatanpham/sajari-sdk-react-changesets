@@ -12,29 +12,32 @@ There are three main packages allowing you to pick and choose the right solution
 
 The Sajari React SDK is broken into 4 separate packages:
 
-### @sajari/react-components
-<img src="https://badgen.net/bundlephobia/minzip/@sajari/react-components?cache=300" alt="Size"> <img src="https://badgen.net/npm/v/@sajari/react-components?cache=300" alt="Latest NPM version">
+### @tpham0/react-components
+
+<img src="https://badgen.net/bundlephobia/minzip/@tpham0/react-components?cache=300" alt="Size"> <img src="https://badgen.net/npm/v/@tpham0/react-components?cache=300" alt="Latest NPM version">
 
 Core components that allow you to build a beautiful search interface with any back end.
 
-### @sajari/react-hooks
-<img src="https://badgen.net/bundlephobia/minzip/@sajari/react-hooks?cache=300" alt="Size"> <img src="https://badgen.net/npm/v/@sajari/react-hooks?cache=300" alt="Latest NPM version">
+### @tpham0/react-hooks
+
+<img src="https://badgen.net/bundlephobia/minzip/@tpham0/react-hooks?cache=300" alt="Size"> <img src="https://badgen.net/npm/v/@tpham0/react-hooks?cache=300" alt="Latest NPM version">
 
 Hooks that allow you to build a search interface using any component library.
 
-### @sajari/react-search-ui
-<img src="https://badgen.net/bundlephobia/minzip/@sajari/react-search-ui?cache=300" alt="Size"> <img src="https://badgen.net/npm/v/@sajari/react-search-ui?cache=300" alt="Latest NPM version">
+### @tpham0/react-search-ui
+
+<img src="https://badgen.net/bundlephobia/minzip/@tpham0/react-search-ui?cache=300" alt="Size"> <img src="https://badgen.net/npm/v/@tpham0/react-search-ui?cache=300" alt="Latest NPM version">
 
 Easy to use search components to quickly build a beautiful search interface. If you've used previous versions of our SDK, you'll be most familiar with this package.
 
 ### @sajari/server
-Helpers for server-side rendering your React application using Sajari search.
 
+Helpers for server-side rendering your React application using Sajari search.
 
 ## Documentation
 
-Visit the [documentation](https://react.docs.sajari.com) for details on how to install and use the components. 
+Visit the [documentation](https://react.docs.sajari.com) for details on how to install and use the components.
 
 ### Guides
 
-Check out the [getting started guide](https://github.com/sajari/sdk-react-guide) taking you from create-react-app to a fully featured search in minutes. 
+Check out the [getting started guide](https://github.com/sajari/sdk-react-guide) taking you from create-react-app to a fully featured search in minutes.

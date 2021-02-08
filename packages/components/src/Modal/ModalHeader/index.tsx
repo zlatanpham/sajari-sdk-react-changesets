@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { ModalHeaderProps } from './types';
-import { __DEV__, getStylesObject } from '@sajari/react-sdk-utils';
+import { __DEV__, getStylesObject } from '@tpham0/react-sdk-utils';
 import Box from '../../Box';
 import { useModalContext } from '../context';
 import useModalHeaderStyles from './styles';

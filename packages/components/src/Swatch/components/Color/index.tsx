@@ -2,7 +2,7 @@
 
 import { useSwitch } from '@react-aria/switch';
 import { useToggleState } from '@react-stately/toggle';
-import { __DEV__, getStylesObject } from '@sajari/react-sdk-utils';
+import { __DEV__, getStylesObject } from '@tpham0/react-sdk-utils';
 import classnames from 'classnames';
 import ColorClass from 'color';
 import * as React from 'react';

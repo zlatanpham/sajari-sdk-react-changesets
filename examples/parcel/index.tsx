@@ -1,8 +1,8 @@
 import 'react-app-polyfill/ie11';
 
-import { Pagination } from '@sajari/react-components';
-import { useSearchContext } from '@sajari/react-hooks';
-import { FieldDictionary, Pipeline, SearchProvider } from '@sajari/react-search-ui';
+import { Pagination } from '@tpham0/react-components';
+import { useSearchContext } from '@tpham0/react-hooks';
+import { FieldDictionary, Pipeline, SearchProvider } from '@tpham0/react-search-ui';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 

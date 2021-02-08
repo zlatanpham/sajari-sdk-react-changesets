@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { Combobox } from '@sajari/react-components';
-import { useAutocomplete, useQuery, useSearchContext } from '@sajari/react-hooks';
-import { __DEV__, isArray } from '@sajari/react-sdk-utils';
+import { Combobox } from '@tpham0/react-components';
+import { useAutocomplete, useQuery, useSearchContext } from '@tpham0/react-hooks';
+import { __DEV__, isArray } from '@tpham0/react-sdk-utils';
 import React, { useCallback } from 'react';
 import { useTranslation } from 'react-i18next';
 

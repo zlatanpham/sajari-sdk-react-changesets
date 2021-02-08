@@ -26,8 +26,8 @@
     "react-dom": "^16.8.0"
   },
   "dependencies": {
-    "@sajari/react-hooks": "^1.4.4",
-    "@sajari/react-sdk-utils": "^1.3.4"
+    "@tpham0/react-hooks": "^1.4.4",
+    "@tpham0/react-sdk-utils": "^1.3.4"
   },
   "publishConfig": {
     "access": "public"

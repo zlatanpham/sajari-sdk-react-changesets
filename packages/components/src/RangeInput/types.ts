@@ -1,5 +1,5 @@
 import { AriaTextFieldOptions, TextFieldAria } from '@react-aria/textfield';
-import { Range } from '@sajari/react-hooks';
+import { Range } from '@tpham0/react-hooks';
 import * as React from 'react';
 
 import { BoxProps } from '../Box';

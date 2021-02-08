@@ -1,5 +1,5 @@
 {
-  "name": "@sajari/react-next-example",
+  "name": "@tpham0/react-next-example",
   "version": "1.0.0",
   "private": true,
   "main": "index.js",
@@ -10,9 +10,9 @@
     "start": "next build && next start -p 3002"
   },
   "alias": {
-    "@sajari/react-components": "../packages/components",
-    "@sajari/react-hooks": "../packages/hooks",
-    "@sajari/react-search-ui": "../packages/search-ui",
+    "@tpham0/react-components": "../packages/components",
+    "@tpham0/react-hooks": "../packages/hooks",
+    "@tpham0/react-search-ui": "../packages/search-ui",
     "react": "../node_modules/react",
     "react-dom": "../node_modules/react-dom/profiling",
     "scheduler/tracing": "../node_modules/scheduler/tracing-profiling"

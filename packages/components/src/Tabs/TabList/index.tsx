@@ -1,4 +1,4 @@
-import { __DEV__, cleanChildren, getStylesObject } from '@sajari/react-sdk-utils';
+import { __DEV__, cleanChildren, getStylesObject } from '@tpham0/react-sdk-utils';
 import React, { cloneElement, useRef } from 'react';
 
 import Box from '../../Box';

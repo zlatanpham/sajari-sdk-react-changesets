@@ -1,7 +1,7 @@
 import { useId } from '@react-aria/utils';
-import { Option, Select } from '@sajari/react-components';
-import { useSorting } from '@sajari/react-hooks';
-import { isArray } from '@sajari/react-sdk-utils';
+import { Option, Select } from '@tpham0/react-components';
+import { useSorting } from '@tpham0/react-hooks';
+import { isArray } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 import { useTranslation } from 'react-i18next';
 

@@ -7,7 +7,7 @@
 - [`2ffbc5d9`](https://github.com/sajari/sdk-react/commit/2ffbc5d9dc9de2e28413b7314b9733e65d35032a) [#385](https://github.com/sajari/sdk-react/pull/385) Thanks [@sampotts](https://github.com/sampotts)! - Package updates and minor doc updates
 
 - Updated dependencies [[`2ffbc5d9`](https://github.com/sajari/sdk-react/commit/2ffbc5d9dc9de2e28413b7314b9733e65d35032a)]:
-  - @sajari/react-hooks@1.4.4
+  - @tpham0/react-hooks@1.4.4
 
 ## 1.2.2
 
@@ -16,8 +16,8 @@
 - [`3953b091`](https://github.com/sajari/sdk-react/commit/3953b091c4d4b899f570f5d6ed33bf5858eb319e) [#369](https://github.com/sajari/sdk-react/pull/369) Thanks [@sampotts](https://github.com/sampotts)! - Added support for originalPrice field
 
 - Updated dependencies [[`3953b091`](https://github.com/sajari/sdk-react/commit/3953b091c4d4b899f570f5d6ed33bf5858eb319e)]:
-  - @sajari/react-hooks@1.4.2
-  - @sajari/react-sdk-utils@1.3.2
+  - @tpham0/react-hooks@1.4.2
+  - @tpham0/react-sdk-utils@1.3.2
 
 ## 1.2.1
 
@@ -26,7 +26,7 @@
 - [`b52fc43b`](https://github.com/sajari/sdk-react/commit/b52fc43bd4323c96c6eef858242f6b42923f45f7) [#351](https://github.com/sajari/sdk-react/pull/351) Thanks [@tuanddd](https://github.com/tuanddd)! - Edit typing and error message
 
 - Updated dependencies [[`85d52aa9`](https://github.com/sajari/sdk-react/commit/85d52aa91b95810ef6342b6ea9ac7f785072b1dc), [`fdfe9680`](https://github.com/sajari/sdk-react/commit/fdfe9680d8c79afffd51705b1687db8aae81481e)]:
-  - @sajari/react-hooks@1.4.1
+  - @tpham0/react-hooks@1.4.1
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.

@@ -1,6 +1,6 @@
-import { ResizeObserver } from '@sajari/react-components';
-import { useQuery, useSearchContext, useTracking } from '@sajari/react-hooks';
-import { getStylesObject, isEmpty, isNullOrUndefined } from '@sajari/react-sdk-utils';
+import { ResizeObserver } from '@tpham0/react-components';
+import { useQuery, useSearchContext, useTracking } from '@tpham0/react-hooks';
+import { getStylesObject, isEmpty, isNullOrUndefined } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 import { useTranslation } from 'react-i18next';
 

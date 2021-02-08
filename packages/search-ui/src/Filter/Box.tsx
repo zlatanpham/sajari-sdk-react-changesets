@@ -1,4 +1,4 @@
-import { Box as CoreBox } from '@sajari/react-components';
+import { Box as CoreBox } from '@tpham0/react-components';
 import * as React from 'react';
 
 import { useSearchUIContext } from '../ContextProvider';

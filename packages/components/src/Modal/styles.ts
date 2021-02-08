@@ -1,5 +1,5 @@
 import { css, keyframes } from '@emotion/core';
-import { mapStyles } from '@sajari/react-sdk-utils';
+import { mapStyles } from '@tpham0/react-sdk-utils';
 import tw from 'twin.macro';
 
 import { ModalProps, ModalSize } from './types';

@@ -1,4 +1,4 @@
-# @sajari/react-search-ui
+# @tpham0/react-search-ui
 
 Easy to use search components to quickly build a beautiful search interface. If you've used previous versions of our SDK, you'll be most familiar with this package.
 

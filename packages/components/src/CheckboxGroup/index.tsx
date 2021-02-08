@@ -1,5 +1,5 @@
 import { useId } from '@react-aria/utils';
-import { cleanChildren, getStylesObject } from '@sajari/react-sdk-utils';
+import { cleanChildren, getStylesObject } from '@tpham0/react-sdk-utils';
 import React, { cloneElement, useRef, useState } from 'react';
 import tw from 'twin.macro';
 

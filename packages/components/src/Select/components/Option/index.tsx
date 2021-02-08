@@ -1,4 +1,4 @@
-import { getStylesObject } from '@sajari/react-sdk-utils';
+import { getStylesObject } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 
 import { IconSmallCheck } from '../../../assets/icons';

@@ -1,4 +1,4 @@
-import { BoxProps, PaginationProps as PurePaginationProps } from '@sajari/react-components';
+import { BoxProps, PaginationProps as PurePaginationProps } from '@tpham0/react-components';
 
 export interface PaginationProps
   extends BoxProps,

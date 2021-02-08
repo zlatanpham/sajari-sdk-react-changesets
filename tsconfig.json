@@ -6,11 +6,11 @@
     "baseUrl": ".",
     "typeRoots": ["./node_modules/@types", "./types"],
     "paths": {
-      "@sajari/react-components": ["packages/components/src"],
-      "@sajari/react-hooks": ["packages/hooks/src"],
-      "@sajari/react-search-ui": ["packages/search-ui/src"],
-      "@sajari/react-server": ["packages/server/src"],
-      "@sajari/react-sdk-utils": ["packages/utils/src"]
+      "@tpham0/react-components": ["packages/components/src"],
+      "@tpham0/react-hooks": ["packages/hooks/src"],
+      "@tpham0/react-search-ui": ["packages/search-ui/src"],
+      "@tpham0/react-server": ["packages/server/src"],
+      "@tpham0/react-sdk-utils": ["packages/utils/src"]
     }
   }
 }

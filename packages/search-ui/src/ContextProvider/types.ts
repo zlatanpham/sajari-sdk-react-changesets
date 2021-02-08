@@ -1,5 +1,5 @@
-import { ClickTracking, PosNegTracking, SearchProviderValues } from '@sajari/react-hooks';
-import { ThemeProviderProps } from '@sajari/react-sdk-utils';
+import { ClickTracking, PosNegTracking, SearchProviderValues } from '@tpham0/react-hooks';
+import { ThemeProviderProps } from '@tpham0/react-sdk-utils';
 
 export type ResultViewType = 'grid' | 'list';
 

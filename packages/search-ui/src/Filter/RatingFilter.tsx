@@ -1,4 +1,4 @@
-import { Rating } from '@sajari/react-components';
+import { Rating } from '@tpham0/react-components';
 import React, { useCallback } from 'react';
 
 import { useSearchUIContext } from '../ContextProvider';

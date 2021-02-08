@@ -1,5 +1,5 @@
-import { Box, Button, Heading } from '@sajari/react-components';
-import { getStylesObject, isString } from '@sajari/react-sdk-utils';
+import { Box, Button, Heading } from '@tpham0/react-components';
+import { getStylesObject, isString } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 import { useTranslation } from 'react-i18next';
 import tw from 'twin.macro';

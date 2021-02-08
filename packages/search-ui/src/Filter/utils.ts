@@ -1,5 +1,5 @@
-import { FilterItem } from '@sajari/react-hooks';
-import { formatNumber } from '@sajari/react-sdk-utils';
+import { FilterItem } from '@tpham0/react-hooks';
+import { formatNumber } from '@tpham0/react-sdk-utils';
 import { TFunction } from 'i18next';
 
 /**

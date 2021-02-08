@@ -1,4 +1,4 @@
-import { forwardRefWithAs, getStylesObject, PropsWithAs } from '@sajari/react-sdk-utils';
+import { forwardRefWithAs, getStylesObject, PropsWithAs } from '@tpham0/react-sdk-utils';
 import React, { Children, cloneElement, isValidElement } from 'react';
 
 import Box from '../Box';

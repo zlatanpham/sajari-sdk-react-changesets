@@ -1,3 +1,3 @@
-const { tailwindConfig } = require('@sajari/react-sdk-utils');
+const { tailwindConfig } = require('@tpham0/react-sdk-utils');
 
 module.exports = tailwindConfig;

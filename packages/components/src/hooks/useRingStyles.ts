@@ -1,4 +1,4 @@
-import { useTheme } from '@sajari/react-sdk-utils';
+import { useTheme } from '@tpham0/react-sdk-utils';
 import Color from 'color';
 import tw, { theme as twTheme, TwStyle } from 'twin.macro';
 

@@ -1,4 +1,4 @@
-import { FieldDictionary } from '@sajari/react-hooks';
+import { FieldDictionary } from '@tpham0/react-hooks';
 import { Result } from '@sajari/sdk-js';
 
 // TODO: Handle mapping arrays in templates

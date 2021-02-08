@@ -1,4 +1,4 @@
-import { ThemeProvider } from '@sajari/react-sdk-utils';
+import { ThemeProvider } from '@tpham0/react-sdk-utils';
 import { fireEvent, render } from '@testing-library/react';
 import React from 'react';
 

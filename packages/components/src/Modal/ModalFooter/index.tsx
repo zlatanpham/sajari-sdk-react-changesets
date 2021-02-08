@@ -1,7 +1,7 @@
 import React, { Children } from 'react';
 
 import { ModalFooterProps } from './types';
-import { __DEV__, getStylesObject } from '@sajari/react-sdk-utils';
+import { __DEV__, getStylesObject } from '@tpham0/react-sdk-utils';
 import { useModalContext } from '../context';
 import useModalFooterStyles from './styles';
 import ButtonGroup from '../../ButtonGroup';

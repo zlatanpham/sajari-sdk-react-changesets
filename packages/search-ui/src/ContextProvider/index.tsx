@@ -1,5 +1,5 @@
-import { SearchProvider } from '@sajari/react-hooks';
-import { createContext, ThemeProvider } from '@sajari/react-sdk-utils';
+import { SearchProvider } from '@tpham0/react-hooks';
+import { createContext, ThemeProvider } from '@tpham0/react-sdk-utils';
 import React, { useEffect, useState } from 'react';
 import { LiveAnnouncer } from 'react-aria-live';
 import { I18nextProvider } from 'react-i18next';

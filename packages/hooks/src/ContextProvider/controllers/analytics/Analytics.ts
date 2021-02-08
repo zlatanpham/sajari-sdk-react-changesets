@@ -1,4 +1,4 @@
-import { isSSR } from '@sajari/react-sdk-utils';
+import { isSSR } from '@tpham0/react-sdk-utils';
 
 import {
   EVENT_ANALYTICS_BODY_RESET,

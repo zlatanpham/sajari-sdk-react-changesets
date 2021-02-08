@@ -1,5 +1,5 @@
-import { ClickTracking, PosNegTracking, Token } from '@sajari/react-hooks';
-import { isEmpty, isFunction, isString, isValidURL, noop } from '@sajari/react-sdk-utils';
+import { ClickTracking, PosNegTracking, Token } from '@tpham0/react-hooks';
+import { isEmpty, isFunction, isString, isValidURL, noop } from '@tpham0/react-sdk-utils';
 
 import { ResultValues } from '../Results/types';
 

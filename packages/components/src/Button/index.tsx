@@ -1,7 +1,7 @@
 import { useButton } from '@react-aria/button';
 import { useFocus, useHover } from '@react-aria/interactions';
 import { mergeProps } from '@react-aria/utils';
-import { getStylesObject, mergeRefs } from '@sajari/react-sdk-utils';
+import { getStylesObject, mergeRefs } from '@tpham0/react-sdk-utils';
 import classnames from 'classnames';
 import React, { useRef } from 'react';
 

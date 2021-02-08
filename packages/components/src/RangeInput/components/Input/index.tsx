@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/ban-ts-comment */
 import { useTextField } from '@react-aria/textfield';
 import { mergeProps } from '@react-aria/utils';
-import { getStylesObject } from '@sajari/react-sdk-utils';
+import { getStylesObject } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 import tw from 'twin.macro';
 

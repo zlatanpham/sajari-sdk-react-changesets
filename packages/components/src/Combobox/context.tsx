@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { createContext } from '@sajari/react-sdk-utils';
+import { createContext } from '@tpham0/react-sdk-utils';
 import { PropGetters } from 'downshift';
 
 import { ComboboxCustomClassNames, ComboboxMode, ComboboxProps } from './types';

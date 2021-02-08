@@ -11,9 +11,9 @@ import SEO, { scopes } from '../../components/SEO';
 The `Pipeline` class is required to configure which pipeline to use for search queries and must be passed to the `SearchProvider`.
 
 ```js
-import { Pipeline } from '@sajari/react-hooks';
+import { Pipeline } from '@tpham0/react-hooks';
 // or
-import { Pipeline } from '@sajari/react-search-ui';
+import { Pipeline } from '@tpham0/react-search-ui';
 ```
 
 ## Usage
@@ -82,9 +82,9 @@ This will return a [`Response`](/classes/response) object.
 Register listeners to be notified when search responses come back from the server, or are cleared by UI events. Every listener is passed a [`Response`](/classes/response) which wraps the server response with convenience methods:
 
 ```js
-import { EVENT_RESPONSE_UPDATED } from '@sajari/react-hooks';
+import { EVENT_RESPONSE_UPDATED } from '@tpham0/react-hooks';
 // or
-import { EVENT_RESPONSE_UPDATED } from '@sajari/react-search-ui';
+import { EVENT_RESPONSE_UPDATED } from '@tpham0/react-search-ui';
 
 const unregister = pipeline.listen(EVENT_RESPONSE_UPDATED, (response) => {
   if (response.isEmpty()) {

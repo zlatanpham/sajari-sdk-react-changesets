@@ -1,4 +1,4 @@
-import { isBoolean } from '@sajari/react-sdk-utils';
+import { isBoolean } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 
 export default function useFormValidity(

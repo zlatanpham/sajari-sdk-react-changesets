@@ -3,7 +3,7 @@ import React from 'react';
 import { useModalContext } from '../context';
 import { ModalBodyProps } from './types';
 import Box from '../../Box';
-import { __DEV__, getStylesObject } from '@sajari/react-sdk-utils';
+import { __DEV__, getStylesObject } from '@tpham0/react-sdk-utils';
 import useModalBodyStyles from './styles';
 
 const ModalBody = React.forwardRef((props: ModalBodyProps, ref?: React.Ref<HTMLDivElement>) => {

@@ -1,6 +1,6 @@
-import { Box, Tab, TabList, Tabs } from '@sajari/react-components';
-import { useFilter } from '@sajari/react-hooks';
-import { isEmpty, useTheme } from '@sajari/react-sdk-utils';
+import { Box, Tab, TabList, Tabs } from '@tpham0/react-components';
+import { useFilter } from '@tpham0/react-hooks';
+import { isEmpty, useTheme } from '@tpham0/react-sdk-utils';
 import * as React from 'react';
 import { useTranslation } from 'react-i18next';
 import tw from 'twin.macro';

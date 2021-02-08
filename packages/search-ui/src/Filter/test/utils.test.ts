@@ -1,4 +1,4 @@
-import { FilterItem } from '@sajari/react-hooks';
+import { FilterItem } from '@tpham0/react-hooks';
 
 import { pinItems } from '../utils';
 
